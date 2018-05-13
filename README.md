@@ -1,4 +1,4 @@
-# Project 12: CarND-Semantic-Segmentation-Project
+# CarND-Semantic-Segmentation-Project
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
 [//]: # (Image References)
